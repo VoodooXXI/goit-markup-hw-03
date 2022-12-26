@@ -1,1 +1,2 @@
-# goit-markup-hw-03
+# goit-markup-hw-02
+Tema de casa #2 Stilizare
